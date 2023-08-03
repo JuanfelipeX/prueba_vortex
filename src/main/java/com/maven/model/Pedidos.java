@@ -75,4 +75,8 @@ public class Pedidos {
         this.conductor = conductor;
     }
 
+      public Conductor getConductor_id() {
+        return conductor;
+    }
+
 }
